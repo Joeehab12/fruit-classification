@@ -2,10 +2,18 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+fruits-360_dataset_2018_02_08
+Untitled.ipynb
+src/Capture.PNG
+src/fruits_test.tfrecords
+src/fruits_train.tfrecords
+src/test.py
+src/Thumbnail
+.idea
 # C extensions
 *.so
-
+venv1
+venv
 # Distribution / packaging
 .Python
 env/
